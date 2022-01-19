@@ -6,7 +6,7 @@
 # Observational Data
     1. Females make up 14% of the total players. However their average purchase price is and average total per person is higher than both Males and Non-Disclosed players.
     2. The 20-24 age range makes up 44.79% of the total number of players and 48% of the the gross purchases.
-    3. 
+    3. The >10 age range has the highest total per person purchase price.
 
 
 ## Player Count
